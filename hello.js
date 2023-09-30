@@ -1,1 +1,1 @@
-console.log('hello');
+console.log('メッセージの変更');
